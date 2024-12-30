@@ -18,5 +18,5 @@ export async function generateStaticParams() {
 export default async function Page({ params }: PageProps) {
   const resolvedParams = await params;
 
-  return <div>{resolvedParams.id}포스트1</div>;
+  return <div>{resolvedParams.id}포스트2</div>;
 }
