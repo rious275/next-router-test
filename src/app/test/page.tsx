@@ -22,7 +22,7 @@ export default function Test() {
         alt=""
       />
 
-      <div>로컬이미지</div>
+      <div>로컬이미111지</div>
       <Image width={100} height={100} src={test} alt="" />
       <Link href="/">go home1234</Link>
     </div>
